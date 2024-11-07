@@ -5,12 +5,11 @@ A modern and responsive weather forecasting app built with Flutter. This app pro
 ---
 
 <p align="center">
-    <img src="ss1 .png" alt="Weather App Screenshot 1" width="45%" style="display:inline-block; margin-right: 10px;"/>
-    <img src="ss2.png" alt="Weather App Screenshot 2" width="45%" style="display:inline-block; margin-right: 10px;"/>
-   
+    <img src="ss1.png" alt="Weather App UI Screenshot" width="45%" style="display:inline-block; margin-right: 10px;"/>
+    <img src="ss2.png" alt="Weather App Loading Screen" width="45%" style="display:inline-block;"/>
 </p>  
 
-*Above are various screens of the app showcasing the main UI and weather details.*
+*The images above showcase the app's main UI and loading screen.*
 
 ---
 
@@ -22,5 +21,3 @@ A modern and responsive weather forecasting app built with Flutter. This app pro
 - **Location-Based Forecast**: Uses your current location to automatically show the weather in your area.
 - **Beautiful UI**: Clean, modern interface with icons and graphics representing different weather conditions.
 - **Responsive Design**: Optimized for mobile and web with smooth transitions and layout adjustments for various screen sizes.
-
-
