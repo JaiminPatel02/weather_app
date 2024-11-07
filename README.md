@@ -5,7 +5,7 @@ A modern and responsive weather forecasting app built with Flutter. This app pro
 ---
 
 <p align="center">
-    <img src="ss1.png" alt="Weather App UI Screenshot" width="45%" style="display:inline-block; margin-right: 10px;"/>
+    <img src="ss1 .png" alt="Weather App UI Screenshot" width="45%" style="display:inline-block; margin-right: 10px;"/>
     <img src="ss2.png" alt="Weather App Loading Screen" width="45%" style="display:inline-block;"/>
 </p>  
 
